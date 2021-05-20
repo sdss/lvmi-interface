@@ -53,5 +53,6 @@ def main_loop():
         
 
 
-
+# Note, another goal here is that one could open up a python Repl and easily
+# execute any of these commands. 
 
